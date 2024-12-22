@@ -2,7 +2,7 @@
 `default_nettype none
 
 // Project entry point
-module top (
+module tt_um_devmonkza_09 (
 	input  CLK,
 	input  BTN_N, BTN1, BTN2, BTN3,
 	output LED1, LED2, LED3, LED4, LED5,
